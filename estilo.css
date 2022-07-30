@@ -1,0 +1,28 @@
+.padrao{
+    background-color: rgb(54, 57, 63);
+    color: white;
+}
+
+.padraocorpo{
+    background-color: rgba(25, 99, 117, 0.493);
+    color: white;
+}
+
+.titulo{
+    color: yellow;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.textocomborda{
+    background-color: palegreen;
+    color: darkblue;
+    border: 5px double red;
+}
+
+.textocomimagem{
+    border: lightpink 5px double;
+    font-size: 18px;
+    background-image: url('logo2.png');
+}
